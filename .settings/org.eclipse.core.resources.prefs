@@ -1,3 +1,12 @@
 eclipse.preferences.version=1
+encoding//views/default/admin/global/footer.tpl.htm=UTF-8
+encoding//views/default/admin/global/nav_menu.tpl.htm=UTF-8
+encoding//views/default/global=UTF-8
 encoding//views/default/global/footer.tpl.htm=UTF-8
+encoding//views/default/global/header.tpl.htm=UTF-8
+encoding//views/default/m/footer.tpl.htm=UTF-8
+encoding//views/default/m/publish.tpl.htm=UTF-8
+encoding//views/default/publish/article.tpl.htm=UTF-8
+encoding//views/default/publish/index.tpl.htm=UTF-8
 encoding/<project>=UTF-8
+encoding/views=UTF-8

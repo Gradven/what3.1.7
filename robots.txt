@@ -1,5 +1,5 @@
 #
-# robots.txt for WeCenter
+# robots.txt for zheshisha
 #
 
 User-agent: *
